@@ -4,7 +4,7 @@ EMPLOYEE INFORMATION SYSTEM
 Employee ID         : EMP1024
 Employee Name       : Thomas Dennis
 Department          : Information Technology
-Designation         : Software Engineer
+Designation         : Senior Software Engineer
 Date of Joining     : 01-07-2026
 Work Location       : Bengaluru
 Email               : employee@example.com
